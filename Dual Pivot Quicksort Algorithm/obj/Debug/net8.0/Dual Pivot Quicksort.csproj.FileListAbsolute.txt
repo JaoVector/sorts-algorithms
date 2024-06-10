@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\bin\Debug\net8.0\Dual Pivot Quicksort.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\bin\Debug\net8.0\Dual Pivot Quicksort.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\bin\Debug\net8.0\Dual Pivot Quicksort.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\bin\Debug\net8.0\Dual Pivot Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\bin\Debug\net8.0\Dual Pivot Quicksort.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\refint\Dual Pivot Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\Dual Pivot Quicksort.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Dual Pivot Quicksort Algorithm\obj\Debug\net8.0\ref\Dual Pivot Quicksort.dll

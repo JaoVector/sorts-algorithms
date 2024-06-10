@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dual Pivot Quicksort/1.0.0": {
+        "runtime": {
+          "Dual Pivot Quicksort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dual Pivot Quicksort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

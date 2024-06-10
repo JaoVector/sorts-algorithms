@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sorting Window/1.0.0": {
+        "runtime": {
+          "Sorting Window.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting Window/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

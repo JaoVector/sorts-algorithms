@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parallel Counting Sort/1.0.0": {
+        "runtime": {
+          "Parallel Counting Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parallel Counting Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\T3637283\\Documents\\Linux_Material\\ProjetosC#\\Algoritmos_Exercicios\\Sorts\\Find the smallest window in an array sorting which will make the entire array sorted\\Sorting Window.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\T3637283\\Documents\\Linux_Material\\ProjetosC#\\Algoritmos_Exercicios\\Sorts\\Find the smallest window in an array sorting which will make the entire array sorted\\Sorting Window.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T3637283\\Documents\\Linux_Material\\ProjetosC#\\Algoritmos_Exercicios\\Sorts\\Find the smallest window in an array sorting which will make the entire array sorted\\Sorting Window.csproj",
+        "projectName": "Sorting Window",
+        "projectPath": "C:\\Users\\T3637283\\Documents\\Linux_Material\\ProjetosC#\\Algoritmos_Exercicios\\Sorts\\Find the smallest window in an array sorting which will make the entire array sorted\\Sorting Window.csproj",
+        "packagesPath": "C:\\Users\\T3637283\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T3637283\\Documents\\Linux_Material\\ProjetosC#\\Algoritmos_Exercicios\\Sorts\\Find the smallest window in an array sorting which will make the entire array sorted\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T3637283\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

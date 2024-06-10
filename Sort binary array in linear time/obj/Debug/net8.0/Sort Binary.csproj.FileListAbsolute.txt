@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\bin\Debug\net8.0\Sort Binary.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\bin\Debug\net8.0\Sort Binary.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\bin\Debug\net8.0\Sort Binary.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\bin\Debug\net8.0\Sort Binary.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\bin\Debug\net8.0\Sort Binary.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\refint\Sort Binary.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\Sort Binary.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Sort binary array in linear time\obj\Debug\net8.0\ref\Sort Binary.dll

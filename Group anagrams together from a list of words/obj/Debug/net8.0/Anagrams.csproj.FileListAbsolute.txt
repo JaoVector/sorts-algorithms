@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\bin\Debug\net8.0\Anagrams.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\bin\Debug\net8.0\Anagrams.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\bin\Debug\net8.0\Anagrams.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\bin\Debug\net8.0\Anagrams.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\bin\Debug\net8.0\Anagrams.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\refint\Anagrams.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\Anagrams.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Group anagrams together from a list of words\obj\Debug\net8.0\ref\Anagrams.dll

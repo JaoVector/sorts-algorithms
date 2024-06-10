@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\bin\Debug\net8.0\Quicksort.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\bin\Debug\net8.0\Quicksort.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\bin\Debug\net8.0\Quicksort.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\bin\Debug\net8.0\Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\bin\Debug\net8.0\Quicksort.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\refint\Quicksort.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\Quicksort.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Sorts\Quicksort Algorithm\obj\Debug\net8.0\ref\Quicksort.dll
